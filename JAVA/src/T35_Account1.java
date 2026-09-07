@@ -25,7 +25,7 @@ class Accountf{
 	}
 	
 }
-public class T35_Account1  {
+public class T35_Account1 {
 
 	public static void main(String[] args) {
 		Accountf a1=new Accountf (6309426 , "SB", 10000);

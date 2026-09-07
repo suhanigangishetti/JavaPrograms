@@ -1,0 +1,15 @@
+package pack1;
+public class Math{
+public int a,b;
+public Math(int a, int b){
+	this.a=a;
+    this.b=b;
+}
+public void add(){
+	System.out.println("add:"+(a+b));
+}
+public void mul(){
+	System.out.println("product:"+(a*b));
+    }
+}
+
